@@ -6,3 +6,6 @@ https://github.com/campusx-official/fastapi-demo-api
 
 pydantic 
 https://github.com/campusx-official/pydantic-crash-course
+
+Post:
+https://github.com/campusx-official/fastapi-demo-api
