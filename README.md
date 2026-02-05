@@ -9,3 +9,9 @@ https://github.com/campusx-official/pydantic-crash-course
 
 Post:
 https://github.com/campusx-official/fastapi-demo-api
+
+get put delete 
+https://github.com/campusx-official/fastapi-demo-api
+
+improving fast api 
+https://github.com/campusx-official/insurance-premium-prediction-fastapi
